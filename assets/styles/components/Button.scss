@@ -1,0 +1,16 @@
+.Botao {
+  display: flex;
+  gap: 0.35rem;
+  background: #1E2832;
+  color: #ffff;
+  padding: 20px;
+  width: 130px;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin-top: 4rem;
+
+  .Icone {
+    color: #ffff;
+  }
+}

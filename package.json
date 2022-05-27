@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.5.0",
+    "parcel": "^2.5.0"
+  },
+  "scripts": {
+    "watch": "parcel watch ./assets/styles/index.scss --public-url ./",
+    "build": "parcel build"
+  }
+}

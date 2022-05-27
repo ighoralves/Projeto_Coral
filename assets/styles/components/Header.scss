@@ -1,0 +1,41 @@
+.Header {
+  font-family: 'Poppins';
+  font-size: 1rem;
+  background: #E5E5E5;
+  ;
+  height: 847px;
+  width: 1920px;
+
+
+  .Container {
+    margin: 0 auto;
+    padding-top: 2rem;
+
+  }
+
+  .Menu {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+
+  }
+
+  .Linha {
+    position: absolute;
+    width: 1400px;
+    height: 0;
+    border: 1px solid #F1F1F1;
+    margin-top: 2rem;
+    left: 16rem;
+  }
+
+  .List {
+    display: flex;
+    gap: 3.5rem;
+    margin: 0 auto;
+    font-size: .90rem;
+    margin-top: 5rem;
+    justify-content: center;
+
+  }
+}
