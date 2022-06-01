@@ -158,9 +158,97 @@ table {
   display: flex;
 }
 
+.Photos .Container {
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+
 .Photos .Container .Ph {
-  grid-template-columns: repeat(3, 2fr);
+  grid-template-rows: auto 1fr;
+  grid-template-columns: auto 1fr 1fr;
+  gap: 1.5rem;
   display: grid;
+}
+
+.Photos .Container .Ph .Item0 {
+  grid-area: 1 / 1 / 3 / 2;
+}
+
+.Photos .Container .Ph .Item1 {
+  grid-area: 1 / 2 / 2 / 3;
+}
+
+.Photos .Container .Ph .Item2 {
+  grid-area: 1 / 3 / 2 / 4;
+}
+
+.Photos .Container .Ph .Item3 {
+  grid-area: 2 / 3 / 3 / 4;
+}
+
+.Photos .Container .Ph .Item4 {
+  grid-area: 2 / 2 / 3 / 3;
+}
+
+.Products .Container h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-family: Roboto;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.Products .Container .Products-menu {
+  margin-bottom: 1rem;
+  font-family: Open Sans ;
+  list-style: none;
+  display: flex;
+}
+
+.Products .Container .Products-menu li {
+  margin-left: 6rem;
+}
+
+.Products .Container .Products-photos {
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  display: grid;
+}
+
+.Products .Container .Products-photos .Fotos {
+  margin-left: 5rem;
+  display: block;
+}
+
+.Products .Container .Products-photos .Fotos h3 {
+  margin-top: 1rem;
+  font-size: .9rem;
+  font-weight: 600;
+}
+
+.Products .Container .Products-photos .Fotos p {
+  color: #7777;
+  margin-top: .3rem;
+  font-size: .8rem;
+  font-weight: 400;
+}
+
+.Products .Container .Products-photos .Fotos span {
+  color: #000;
+  font-weight: 600;
+}
+
+.Products .Container .Products-photos .Fotos img {
+  max-width: 80%;
+}
+
+.Zara {
+  width: auto;
+  background-image: url("andrey-zvyagintsev-EQj1ZMpq_VM-unsplash 1.1999d123.png");
+}
+
+.Zara .Zara-text {
+  margin: 0 auto;
 }
 
 /*# sourceMappingURL=index.css.map */

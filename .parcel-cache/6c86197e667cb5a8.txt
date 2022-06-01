@@ -1,4 +1,4 @@
-4433
+4447
 42C:\Apache24\htdocs\Coral\node_modules\.bin132978987218261503 1
 122C:\Apache24\htdocs\Coral\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\main.js132959070975400000 0
 59C:\Apache24\htdocs\Coral\node_modules\whatwg-url\lib\URL.js132959071084540000 0
@@ -38,7 +38,7 @@
 90C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\page-transition-events.js132978983870270000 0
 37C:\Apache24\htdocs\Coral\package.json132978987218750543 0
 70C:\Apache24\htdocs\Coral\node_modules\postcss-value-parser\lib\walk.js132959070968540000 0
-29C:\Apache24\htdocs\Coral\dist132983340650730847 1
+29C:\Apache24\htdocs\Coral\dist132985954220959623 1
 70C:\Apache24\htdocs\Coral\node_modules\@parcel\resolver-default\LICENSE132959070904960000 0
 60C:\Apache24\htdocs\Coral\node_modules\@parcel\diagnostic\src132978984235618070 1
 90C:\Apache24\htdocs\Coral\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts132959071110360000 0
@@ -58,7 +58,7 @@
 78C:\Apache24\htdocs\Coral\node_modules\source-map-js\lib\source-map-consumer.js132959977520210000 0
 55C:\Apache24\htdocs\Coral\node_modules\svgo\package.json132959070957740000 0
 41C:\Apache24\htdocs\Coral\node_modules\nan132978984021903452 1
-35C:\Apache24\htdocs\Coral\index.html132983332377252178 0
+35C:\Apache24\htdocs\Coral\index.html132985937678605783 0
 49C:\Apache24\htdocs\Coral\node_modules\terser\dist132978984295942242 1
 88C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\private-class-fields.js132978983870270000 0
 78C:\Apache24\htdocs\Coral\node_modules\dom-serializer\lib\foreignNames.d.ts.map132959071110380000 0
@@ -124,6 +124,7 @@
 79C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\text-stroke.js132978983870270000 0
 72C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\json.js132978983870270000 0
 70C:\Apache24\htdocs\Coral\node_modules\@swc\helpers\src\_ts_decorate.js132978983867220000 0
+58C:\Apache24\htdocs\Coral\assets\img\1024px-Zara_Logo 2.png132985936620846900 0
 42C:\Apache24\htdocs\Coral\node_modules\@swc132978983941751364 1
 44C:\Apache24\htdocs\Coral\node_modules\base-x132978983992224676 1
 70C:\Apache24\htdocs\Coral\node_modules\svgo\plugins\_applyTransforms.js132959070957740000 0
@@ -741,6 +742,7 @@
 46C:\Apache24\htdocs\Coral\node_modules\lmdb\src132978984223763198 1
 87C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\css-conic-gradients.js132978983870270000 0
 59C:\Apache24\htdocs\Coral\node_modules\lodash.sortby\LICENSE132959071107900000 0
+63C:\Apache24\htdocs\Coral\assets\styles\components\Products.scss132985934122454197 0
 64C:\Apache24\htdocs\Coral\node_modules\css-what\lib\es\parse.d.ts132959071054070000 0
 69C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\regions\PF.js132978983870270000 0
 94C:\Apache24\htdocs\Coral\node_modules\@parcel\transformer-babel\node_modules\.bin\browserslist132978987211213190 0
@@ -1930,7 +1932,7 @@
 120C:\Apache24\htdocs\Coral\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a132978984410420397 1
 56C:\Apache24\htdocs\Coral\node_modules\msgpackr\stream.js132978983864680000 0
 50C:\Apache24\htdocs\Coral\node_modules\mdn-data\api132978984221897173 1
-49C:\Apache24\htdocs\Coral\assets\styles\components132983328544496013 1
+49C:\Apache24\htdocs\Coral\assets\styles\components132985938158959311 1
 82C:\Apache24\htdocs\Coral\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js132959070992550000 0
 55C:\Apache24\htdocs\Coral\node_modules\mdn-data\index.js132959071068890000 0
 77C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\xhtmlsmil.js132978983870270000 0
@@ -2490,7 +2492,7 @@
 56C:\Apache24\htdocs\Coral\node_modules\dotenv\lib\main.js132959070937000000 0
 69C:\Apache24\htdocs\Coral\node_modules\@parcel\transformer-raw\LICENSE132959070917750000 0
 50C:\Apache24\htdocs\Coral\node_modules\domutils\lib132978984211489219 1
-35C:\Apache24\htdocs\Coral\assets\img132983330632637622 1
+35C:\Apache24\htdocs\Coral\assets\img132985936665156990 1
 56C:\Apache24\htdocs\Coral\node_modules\domutils\readme.md132959071092080000 0
 61C:\Apache24\htdocs\Coral\node_modules\domutils\lib\feeds.d.ts132959071092080000 0
 118C:\Apache24\htdocs\Coral\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\package.json132959070975400000 0
@@ -3463,7 +3465,7 @@
 74C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\webgl2.js132978983870270000 0
 82C:\Apache24\htdocs\Coral\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js132959070900920000 0
 74C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\webhid.js132978983870270000 0
-61C:\Apache24\htdocs\Coral\assets\styles\components\Photos.scss132983340649049607 0
+61C:\Apache24\htdocs\Coral\assets\styles\components\Photos.scss132985886376969155 0
 84C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\webkit-user-drag.js132978983870270000 0
 72C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\webm.js132978983870270000 0
 74C:\Apache24\htdocs\Coral\node_modules\caniuse-lite\data\features\webnfc.js132978983870270000 0
@@ -3872,6 +3874,7 @@
 83C:\Apache24\htdocs\Coral\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo132978987210930097 0
 66C:\Apache24\htdocs\Coral\node_modules\@parcel\transformer-html\src132978984283956253 1
 82C:\Apache24\htdocs\Coral\node_modules\@parcel\transformer-html\src\dependencies.js132959070911430000 0
+42C:\Apache24\htdocs\Coral\assets\img\p2.png132985911758801233 0
 85C:\Apache24\htdocs\Coral\node_modules\@parcel\transformer-html\src\HTMLTransformer.js132959070911430000 0
 76C:\Apache24\htdocs\Coral\node_modules\@parcel\transformer-html\src\inline.js132959070911430000 0
 91C:\Apache24\htdocs\Coral\node_modules\@parcel\transformer-html\node_modules\.bin\semver.cmd132978987212085541 0
@@ -4414,20 +4417,31 @@
 53C:\Apache24\htdocs\Coral\node_modules\.bin\semver.cmd132978987218023352 0
 47C:\Apache24\htdocs\Coral\node_modules\.bin\svgo132978987218080886 0
 51C:\Apache24\htdocs\Coral\node_modules\.bin\svgo.cmd132978987218080886 0
-39C:\Apache24\htdocs\Coral\dist\index.css132983340650621136 0
-43C:\Apache24\htdocs\Coral\dist\index.css.map132983340650621136 0
+84C:\Apache24\htdocs\Coral\dist\andrey-zvyagintsev-EQj1ZMpq_VM-unsplash 1.1999d123.png132985953366637782 0
+39C:\Apache24\htdocs\Coral\dist\index.css132985954220829969 0
+43C:\Apache24\htdocs\Coral\dist\index.css.map132985954220829969 0
 37C:\Apache24\htdocs\Coral\assets\icons132983307502315900 1
-49C:\Apache24\htdocs\Coral\assets\styles\index.scss132983328577808915 0
+49C:\Apache24\htdocs\Coral\assets\styles\index.scss132985938307327174 0
 61C:\Apache24\htdocs\Coral\assets\styles\components\Button.scss132983291760187585 0
 66C:\Apache24\htdocs\Coral\assets\styles\components\Collections.scss132983301258483379 0
 61C:\Apache24\htdocs\Coral\assets\styles\components\Header.scss132983337617571009 0
 60C:\Apache24\htdocs\Coral\assets\styles\components\Reset.scss132983259655839562 0
+59C:\Apache24\htdocs\Coral\assets\styles\components\Zara.scss132985954218124990 0
+58C:\Apache24\htdocs\Coral\assets\img\1024px-Zara_Logo 1.png132985936385443842 0
+81C:\Apache24\htdocs\Coral\assets\img\andrey-zvyagintsev-EQj1ZMpq_VM-unsplash 1.png132985936092733500 0
 45C:\Apache24\htdocs\Coral\assets\img\CORAL.png132978991212718514 0
 75C:\Apache24\htdocs\Coral\assets\img\engin-akyurt-jaZoffxg1yc-unsplash 1.png132981492016069673 0
 56C:\Apache24\htdocs\Coral\assets\img\image-category-1.png132983329898985764 0
 56C:\Apache24\htdocs\Coral\assets\img\image-category-2.png132983330060740146 0
 56C:\Apache24\htdocs\Coral\assets\img\image-category-5.png132983330572391149 0
+42C:\Apache24\htdocs\Coral\assets\img\p3.png132985911874008042 0
+42C:\Apache24\htdocs\Coral\assets\img\p4.png132985912030583870 0
+42C:\Apache24\htdocs\Coral\assets\img\p5.png132985912161755671 0
+42C:\Apache24\htdocs\Coral\assets\img\p6.png132985912287014501 0
+46C:\Apache24\htdocs\Coral\assets\img\p7 (1).png132985912399385141 0
+42C:\Apache24\htdocs\Coral\assets\img\p8.png132985912604852607 0
 51C:\Apache24\htdocs\Coral\assets\img\Rectangle 1.png132978991861403663 0
+46C:\Apache24\htdocs\Coral\assets\img\Vector.png132985911624756585 0
 49C:\Apache24\htdocs\Coral\assets\icons\brand-1.png132983304387871706 0
 49C:\Apache24\htdocs\Coral\assets\icons\brand-2.png132983304881974389 0
 49C:\Apache24\htdocs\Coral\assets\icons\brand-3.png132983305073459747 0
