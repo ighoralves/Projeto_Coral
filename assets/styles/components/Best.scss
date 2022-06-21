@@ -1,0 +1,47 @@
+.Best {
+
+  h2 {
+    font-family: 'Roboto';
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 2rem;
+    letter-spacing: .30rem;
+    text-align: center;
+  }
+
+  .Best-menu {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    margin-bottom: 2rem;
+    margin-left: 6rem;
+    text-transform: capitalize;
+  }
+
+  .Vendas {
+    display: flex;
+
+    .Sellers {
+      margin-bottom: 6rem;
+      margin-left: 6rem;
+
+      h3 {
+        font-family: 'Open Sans';
+        font-size: .90rem;
+        font-weight: 600;
+        margin-top: 1rem;
+      }
+
+      p {
+        color: #777777;
+        font-size: .80rem;
+        margin-top: .30rem;
+      }
+
+      img {
+        max-width: 80%;
+      }
+
+    }
+  }
+}

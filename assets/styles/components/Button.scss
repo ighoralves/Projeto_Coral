@@ -1,14 +1,14 @@
 .Botao {
-  display: flex;
-  gap: 0.35rem;
   background: #1E2832;
   color: #ffff;
-  padding: 20px;
-  width: 130px;
-  justify-content: center;
+  display: flex;
   font-size: 1.4rem;
   font-weight: 400;
+  gap: 0.35rem;
+  justify-content: center;
   margin-top: 4rem;
+  padding: 20px;
+  width: 130px;
 
   .Icone {
     color: #ffff;
@@ -20,7 +20,7 @@
 @media (max-width: 680px) {
   .Botao {
     margin: 0 auto;
-    margin-top: 1rem;
     margin-bottom: 1rem;
+    margin-top: 1rem;
   }
 }

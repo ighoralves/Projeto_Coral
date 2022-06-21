@@ -1,9 +1,9 @@
 .Collections {
   display: flex;
-  flex-wrap: wrap;
   font-family: 'Roboto';
-  margin-top: 8rem;
+  flex-wrap: wrap;
   gap: -1rem;
+  margin-top: 8rem;
 
   .Text {
     margin: 0 auto;
@@ -12,14 +12,14 @@
     h2 {
       font-size: 4.5rem;
       font-weight: 300;
-      margin-top: 4rem;
       margin-bottom: 2rem;
+      margin-top: 4rem;
 
     }
 
     p {
-      font-weight: 400;
       font-size: 1.6rem;
+      font-weight: 400;
       line-height: 3rem;
     }
   }

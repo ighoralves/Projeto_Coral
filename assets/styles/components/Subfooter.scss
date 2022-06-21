@@ -1,0 +1,42 @@
+.Subfooter {
+  margin-bottom: 7rem;
+  margin-top: 7rem;
+
+  .Container {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .Text {
+
+    img {
+      margin-bottom: 2rem;
+      margin-left: 2rem;
+    }
+
+    p {
+      color: #292929;
+      line-height: 1.6rem;
+      text-transform: capitalize;
+    }
+  }
+
+  .Subtext {
+    text-transform: capitalize;
+
+    h3 {
+      font-family: 'Roboto';
+      font-size: 1.5rem;
+      font-weight: 500;
+      margin-bottom: 1rem;
+    }
+
+    li {
+      color: #292929;
+      list-style: none;
+      margin-bottom: 1rem;
+      text-transform: capitalize;
+    }
+  }
+
+}

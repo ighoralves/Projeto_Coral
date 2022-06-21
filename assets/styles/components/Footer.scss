@@ -1,0 +1,16 @@
+.Footer {
+  background-color: #1E2832;
+
+
+  .Container {
+    display: flex;
+    align-items: center;
+    height: 3rem;
+    justify-content: space-around;
+
+    h3 {
+      color: #ffff;
+      font-size: .70rem;
+    }
+  }
+}

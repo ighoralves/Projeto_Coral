@@ -1,42 +1,35 @@
 .Header {
-  font-family: 'Poppins';
-  font-size: 1rem;
   background: #F1F1F1;
-  ;
-
-
+  font-size: 1rem;
+  font-family: 'Poppins';
 
   .Container {
     padding-top: 2rem;
-
   }
 
   .Menu {
     display: flex;
-    justify-content: space-around;
     gap: 1rem;
-
+    justify-content: space-around;
   }
 
   .Linha {
+    border: 1px solid #E5E5E5;
+    height: 0;
+    left: 10rem;
+    margin-top: 2rem;
     position: absolute;
     width: 1030px;
-    height: 0;
-    border: 1px solid #E5E5E5;
-    margin-top: 2rem;
-    left: 10rem;
   }
 
   .List {
     display: flex;
     flex-wrap: wrap;
+    font-size: .90rem;
+    font-style: none;
     gap: 0.99rem;
     justify-content: center;
-    font-style: none;
-    font-size: .90rem;
-    margin-top: 5rem;
     list-style: none;
-
-
+    margin-top: 5rem;
   }
 }
