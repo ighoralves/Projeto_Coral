@@ -2,9 +2,9 @@
   background: #F1F1F1;
   font-size: 1rem;
   font-family: 'Poppins';
-
+  
   .Container {
-    padding-top: 2rem;
+    padding: 2rem 0;
   }
 
   .Menu {
@@ -14,7 +14,6 @@
   }
 
   .Linha {
-    border: 1px solid #E5E5E5;
     height: 0;
     left: 10rem;
     margin-top: 2rem;
@@ -23,13 +22,14 @@
   }
 
   .List {
+    border-top: 1px solid #E5E5E5;
     display: flex;
     flex-wrap: wrap;
     font-size: .90rem;
+    padding: 2rem 0;
     font-style: none;
     gap: 0.99rem;
     justify-content: center;
     list-style: none;
-    margin-top: 5rem;
   }
 }

@@ -23,6 +23,8 @@ ol, ul {
 
 img {
   vertical-align: middle;
+  max-width: 100%;
+  height: auto;
 }
 
 blockquote, q {
@@ -39,6 +41,18 @@ table {
   border-spacing: 0;
 }
 
+.Container, .container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+@media (min-width: 800px) {
+  .Container, .container {
+    padding: 0;
+  }
+}
+
 .Header {
   background: #f1f1f1;
   font-family: Poppins;
@@ -46,7 +60,7 @@ table {
 }
 
 .Header .Container {
-  padding-top: 2rem;
+  padding: 2rem 0;
 }
 
 .Header .Menu {
@@ -58,7 +72,6 @@ table {
 .Header .Linha {
   height: 0;
   width: 1030px;
-  border: 1px solid #e5e5e5;
   margin-top: 2rem;
   position: absolute;
   left: 10rem;
@@ -67,10 +80,11 @@ table {
 .Header .List {
   font-size: .9rem;
   font-style: none;
+  border-top: 1px solid #e5e5e5;
   flex-wrap: wrap;
   justify-content: center;
   gap: .99rem;
-  margin-top: 5rem;
+  padding: 2rem 0;
   list-style: none;
   display: flex;
 }
@@ -190,7 +204,7 @@ table {
   grid-area: 2 / 2 / 3 / 3;
 }
 
-.Products .Container h2 {
+.Products h2 {
   text-align: center;
   margin-bottom: 2rem;
   font-family: Roboto;
@@ -198,58 +212,62 @@ table {
   font-weight: 500;
 }
 
-.Products .Container .Products-menu {
+.Products .Products-menu {
   margin-bottom: 1rem;
   font-family: Open Sans ;
   list-style: none;
   display: flex;
 }
 
-.Products .Container .Products-menu li {
+.Products .Products-menu li {
   margin-left: 6rem;
 }
 
-.Products .Container .Products-photos {
-  grid-template-columns: repeat(4, 1fr);
+.Products .Products-photos {
+  grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
   margin-bottom: 2rem;
   display: grid;
 }
 
-.Products .Container .Products-photos .Fotos {
-  margin-left: 5rem;
+.Products .Products-photos .Fotos {
   display: block;
 }
 
-.Products .Container .Products-photos .Fotos h3 {
+.Products .Products-photos .Fotos h3 {
   margin-top: 1rem;
   font-size: .9rem;
   font-weight: 600;
 }
 
-.Products .Container .Products-photos .Fotos p {
+.Products .Products-photos .Fotos p {
   color: #7777;
   margin-top: .3rem;
   font-size: .8rem;
   font-weight: 400;
 }
 
-.Products .Container .Products-photos .Fotos span {
+.Products .Products-photos .Fotos span {
   color: #000;
   font-weight: 600;
 }
 
-.Products .Container .Products-photos .Fotos img {
-  max-width: 80%;
+@media (min-width: 800px) {
+  .Products .Products-photos {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
 
 .Zara {
-  width: auto;
-  background-image: url("andrey-zvyagintsev-EQj1ZMpq_VM-unsplash 1.1999d123.png");
+  position: relative;
 }
 
-.Zara .Zara-text {
-  margin: 0 auto;
+.Zara-text {
+  background: red;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .Best h2 {
@@ -344,6 +362,12 @@ table {
   width: 25rem;
   background-color: #f1f1f1;
   border: none;
+  border-bottom: 1px solid #000;
+}
+
+.Follow .Divbusca .Txtbusca:focus {
+  box-shadow: 0;
+  outline: 0;
 }
 
 .Follow .Divbusca button {
